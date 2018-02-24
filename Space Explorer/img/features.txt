@@ -1,0 +1,7 @@
+fuel,
+shield,
+hull,
+speed,
+engine,
+heading direction,
+moving direction,
